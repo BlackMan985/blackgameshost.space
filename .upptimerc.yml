@@ -1,12 +1,12 @@
 owner: BlackMan985 # Ваше имя пользователя на GitHub
 repo: blackgameshost.space # Имя вашего репозитория
 sites: # Список конечных точек для мониторинга
-  - name: Панель
+  - name: Panel
     url: https://panel.blackgameshost.space
-  - name: Нода1
+  - name: Noda1
     url: https://n1.blackgameshost.space
-assignees: # Пользователи для назначения проблем с простоями (необязательно)
-  - AnandChowdhary
+assignees: [] # Пользователи для назначения проблем с простоями (необязательно)
+  
 status-website: # Страница статуса
-  baseUrl: /blackgameshost # Здесь укажите имя вашего репозитория
+  baseUrl: /blackgameshost.space # Здесь укажите имя вашего репозитория
   name: Статус сервиса BlackGamesHost # Название страницы статуса
